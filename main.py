@@ -26,9 +26,13 @@ class QuizApp(App):
         self.checkbox_layout = BoxLayout(orientation='vertical')
         self.checkboxes = []
         for option in self.questions[self.index]['options']:
+            new_box = BoxLayout(orientation='horizontal')
+            labe = Label(text=option)
             checkbox = CheckBox(group='options')
+            new_box.add_widget(checkbox)
+            new_box.add_widget(labe)
             self.checkboxes.append(checkbox)
-            self.checkbox_layout.add_widget(checkbox)
+            self.checkbox_layout.add_widget(new_box)
         layout.add_widget(self.checkbox_layout)
 
         self.submit_button = Button(text='Submit answer', size_hint=(1, 0.2))
