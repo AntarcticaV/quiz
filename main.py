@@ -2,6 +2,7 @@ from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.label import Label
+from kivy.config import Config
 
 
 class QuizApp(App):
@@ -38,4 +39,8 @@ class QuizApp(App):
 
 
 if __name__ == '__main__':
+    Config.set("graphics", "resizable", 0)
+    Config.set("graphics", "width", 360)
+    Config.set("graphics", "height", 800)
+    Config.write()
     QuizApp().run()
