@@ -1,0 +1,31 @@
+Do you prefer to grow in the dark or in the light?
+Are you more of a solitary mushroom or do you prefer growing in groups?
+Do you have a distinctive smell or taste?
+Are you edible or poisonous?
+What color is your cap?
+What shape is your cap?
+Do you have gills or pores on the underside of your cap?
+Do you grow on trees or on the ground?
+Are you more common in urban or rural areas?
+What season do you typically grow in?
+Do you have any medicinal properties?
+Do you have any cultural or religious significance?
+How long have you been known to humans?
+Are you a favorite of any particular animal species?
+Do you have any unique physical features, such as bioluminescence?
+
+Вы предпочитаете расти в темноте или на свету?
+Вы больше одиночный гриб или предпочитаете расти группами?
+Есть ли у вас характерный запах или вкус?
+Ты съедобен или ядовит?
+Какого цвета твоя кепка?
+Какой формы ваша кепка?
+У вас есть жабры или поры на нижней стороне шляпки?
+Вы растете на деревьях или на земле?
+Вы больше распространены в городской или сельской местности?
+В какой сезон вы обычно выращиваете?
+Обладаете ли вы лечебными свойствами?
+Имеете ли вы какое-либо культурное или религиозное значение?
+Как давно вы известны людям?
+Вы любите какой-либо конкретный вид животных?
+Есть ли у вас какие-то уникальные физические особенности, такие как биолюминесценция?
